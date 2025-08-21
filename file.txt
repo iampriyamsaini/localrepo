@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 This is first line in main.
-=======
-This is first line in new
-This is second line
->>>>>>> e19c50c46d87b65265b8f09111701c7ac75c6430
+
